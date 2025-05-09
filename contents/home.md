@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![JiashuYangEH](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/JiashuYangEH)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Artificial Intelligence, at School of Informatics, the University of Edinburgh, UK.
 
 #### Email
-sli[at]cumt.edu.cn
+J.Yang-125[at]sms.ed.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc, Artificial Intelligence, the University of Edinburgh, 2024—2025 (expected).\
+BSc, Information and Computing Science, Xi'an Jiaotong-Liverpool University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Virtual Reality, Electroencephalogram (EEG), Deep Learning.
 
